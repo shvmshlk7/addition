@@ -1,0 +1,13 @@
+#include <iostream>
+using namespacw std;
+
+int main(){
+  int num1 , num2;
+  cout<<"Enter the value of num1:\n"
+  cin>>num; 
+  cout<<"Enter the value of num:\n"
+  cin>>num;
+  
+  cout<<"the sum is"<<num1+num2;
+  return 0;
+}
